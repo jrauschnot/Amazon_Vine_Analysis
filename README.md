@@ -24,14 +24,14 @@ An analysis of bigdata using PySpark, pgAdmin, and AWS to determine bias in prod
 - There were 34 5-star Vine reviews.
 - There were 8212 5-star non-Vine reviews.
 
-<img width="688" alt="Screen Shot 2022-04-08 at 3 12 12 PM" src="https://user-images.githubusercontent.com/93015602/162540907-794e8c0c-3e6d-4560-8943-3979489057ea.png">
+<img width="764" alt="Screen Shot 2022-04-08 at 3 17 00 PM" src="https://user-images.githubusercontent.com/93015602/162540912-cfd9f74b-6e30-4df1-983a-f3c565e1f876.png">
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 - 56.66% of Vine reviews were 5-stars.
 - 56.72% of non-Vine reviews were 5-stars.
 
-<img width="764" alt="Screen Shot 2022-04-08 at 3 17 00 PM" src="https://user-images.githubusercontent.com/93015602/162540912-cfd9f74b-6e30-4df1-983a-f3c565e1f876.png">
+<img width="688" alt="Screen Shot 2022-04-08 at 3 12 12 PM" src="https://user-images.githubusercontent.com/93015602/162540907-794e8c0c-3e6d-4560-8943-3979489057ea.png">
 
 
 ## Summary:
